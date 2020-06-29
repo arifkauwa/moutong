@@ -1,7 +1,7 @@
 {
   "indo": [
     { "id": 1, "title": "https://m.vidio.com/live/205-indosiar?gclid=EAIaIQobChMIysXNyc2k6gIVz34rCh2agQmSEAAYASAAEgJNZfD_BwE", "yyy": "", "iklan": "", "url": "1" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
-    { "id": 2, "title": "https://m.vidio.com/live/204-sctv", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
+    { "id": 2, "title": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
     { "id": 3, "title": "https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rcti.png" },
     { "id": 4, "title": "https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
     { "id": 5, "title": "https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
