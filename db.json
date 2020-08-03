@@ -6,7 +6,7 @@
     { "id": 4, "title": "https://m.vidio.com/live/870-mnc", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
     { "id": 5, "title": "https://m.vidio.com/live/778-gtv", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
     { "id": 6, "title": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/metrotv.png" },
-    { "id": 7, "title": "https://youtu.be/WmFNtQs7X-U", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvone.png" },
+    { "id": 7, "title": "http://210.210.155.35/session/ed070d02-a425-11ea-b94c-a41480b6ce7c/qwr9ew/s/s105/01.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvone.png" },
     { "id": 8, "title": "https://m.vidio.com/@antv", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/antv.png" },
     { "id": 9, "title": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/trans7.png" },
     { "id": 10, "title": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/transtv.png" },
